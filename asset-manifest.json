@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/soull.ai/static/css/main.e6c13ad2.css",
+    "main.js": "/soull.ai/static/js/main.c75d2a6a.js",
+    "index.html": "/soull.ai/index.html",
+    "main.e6c13ad2.css.map": "/soull.ai/static/css/main.e6c13ad2.css.map",
+    "main.c75d2a6a.js.map": "/soull.ai/static/js/main.c75d2a6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c75d2a6a.js"
+  ]
+}
