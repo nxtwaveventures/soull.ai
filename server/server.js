@@ -7,7 +7,7 @@ const cors = require('cors');
 dotenv.config({ path: './config/config.env' });
 
 // Connect to database
-connectDB();
+// connectDB();
 
 const app = express();
 
